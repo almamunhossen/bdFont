@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Ekushey Sornaly';
+    src:url('ekushey-sornaly-regular.woff2') format('woff2'), 
+        url('Sornaly_Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
