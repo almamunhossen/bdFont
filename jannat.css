@@ -1,6 +1,6 @@
 @font-face {
     font-family:'jannat';
-    src:url('jannat.woff2') format('woff2'); 
+    src:url('jannat.woff2') format('woff2'),
         url('Jannat.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family:'jannat';
-    src:url('https://github.com/almamunhossen/bdFont/blob/main/Jannat.woff2') format('woff2'); 
+    src:url('https://github.com/almamunhossen/bdFont/blob/main/Jannat.woff2') format('woff2'),
         url('https://github.com/almamunhossen/bdFont/blob/main/Jannat.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
