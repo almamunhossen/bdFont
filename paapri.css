@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Paapri';
-    src:url('/paapri.woff2') format('woff2'), 
-        url('/Paapri.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    src:url('paapri.woff2') format('woff2'), 
+        url('Paapri.ttf') format('truetype');
+    font-weight: Regular;
+    font-style: Regular;
   }
